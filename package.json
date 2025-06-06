@@ -1,0 +1,12 @@
+{
+  "name": "yourjobfirst-mvp",
+  "version": "0.1.0",
+  "description": "Prototype for the YourJobFirst (Swipehire) application.",
+  "scripts": {
+    "start": "http-server -c-1 -o",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
